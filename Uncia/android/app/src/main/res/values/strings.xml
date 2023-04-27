@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">unicia</string>
+    <string name="title_activity_main">unicia</string>
+    <string name="package_name">io.ionic.unicia</string>
+    <string name="custom_url_scheme">io.ionic.unicia</string>
+</resources>

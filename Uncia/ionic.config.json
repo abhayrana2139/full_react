@@ -1,0 +1,7 @@
+{
+    "name": "unicia",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }
